@@ -2,7 +2,7 @@
 
 ### Description
 
-This program generate random emails and passwords for anyone who needs it. It is a basic program using Java and object oriented programming. The main purpose of this program was to learn how OOP works and how to use it to accomplish something. 
+This program generates random emails and passwords for anyone who needs it. It is a basic program using Java and object oriented programming. The main purpose of this program was to learn how OOP works and how to use it to accomplish something. 
 
 ### Issues and Challenges
 
