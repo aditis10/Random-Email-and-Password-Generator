@@ -6,7 +6,7 @@ This program generates random emails and passwords for anyone who needs it. It i
 
 ### Issues and Challenges
 
-Some issues that I came up with while making this project is figuring out errors in my methods. For instance, sometimes I would not return the correct data type mentioned in the method and the program would not run. To solve this, I created local variables inside the method with the same data type as the method and returned that at the end. 
+One issue that I came up with while making this project is figuring out errors in my methods. For instance, sometimes I would not return the correct data type mentioned in the method and the program would not run. To solve this, I created local variables inside the method with the same data type as the method and returned that at the end. 
 
 ### Future plans
 
